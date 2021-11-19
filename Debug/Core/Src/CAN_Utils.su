@@ -1,0 +1,6 @@
+CAN_Utils.c:23:17:get_value_16_unsigned	16	static
+CAN_Utils.c:34:16:get_value_8	24	static
+CAN_Utils.c:46:16:get_data_counter	24	static
+CAN_Utils.c:62:13:get_value_32	16	static
+CAN_Utils.c:70:6:Parse_CAN_ID	16	static
+CAN_Utils.c:129:6:CAN_Handler	24	static

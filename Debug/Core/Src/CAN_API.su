@@ -1,0 +1,5 @@
+CAN_API.c:32:13:CAN_filter_init	48	static
+CAN_API.c:56:9:CAN_send_message	24	static
+CAN_API.c:79:6:CAN_init	16	static
+CAN_API.c:109:9:CAN_get_message	24	static
+CAN_API.c:132:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
